@@ -23,8 +23,8 @@ title:                Zeyuan Chen
 
 # A short description (~150 chars) of the page used for the meta description tag.
 # Can use markdown, but no more than one paragraph (enforced by `>`)
-description:           |
-  Undergraduate
+description:           >
+  Undergraduate\n
   School of The Gifted Young @ USTC
 
 # A shorter description for the sidebar.
@@ -71,7 +71,7 @@ paginate_path:         /page-:num/
 # ========================================================================================
 
 # Sidebar image and theme color of the site.
-accent_image:          /assets/img/b2.jpg
+accent_image:          /assets/img/bg1.png
 accent_color:          rgb(79,177,186)
 
 # This is used for the `theme-color` meta tag,

@@ -64,4 +64,4 @@ I am looking for a 2022 fall Ph.D. position.
 
 
 # Misc.
-I am a huge fan of Overwatch and I am a Track One Trick (๑•̀ㅂ•́)و✧
+I am a huge fan of Overwatch and I am a Tracer One Trick (๑•̀ㅂ•́)و✧
