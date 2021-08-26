@@ -1,0 +1,25 @@
+# The primary author of this blog.
+# Must be the same as `author` in `_config.yml`.
+# You can change `author1` to your shortname.
+author1:
+  name:              Zeyuan Chen
+  email:             nnice1216@mail.ustc.edu.cn
+
+  # Used at the bottom of each page and at the top of the `about` layout
+  # Markdown enabled, can use multiple paragraphs (enabled by `|`)
+  about:             |
+   USTC
+
+  # This photo will be used in the about section.
+  picture:
+    path:            assets/img/aaron_sq.png
+
+  # Social media icons in sidebar.
+  # Comment/uncommet to show/hide. Rearrange to change the order in which they appear.
+  social:
+    github:           zychen-ustc
+    email:            'nnice1216@mail.ustc.edu.cn'
+    googlescholar:     citations?user=dvplAJkAAAAJ&hl=en
+    # twitter:           there_are_two_
+    # linkedin:        <firstname-lastname-string>
+

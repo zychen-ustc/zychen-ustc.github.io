@@ -1,0 +1,34 @@
+papers:
+#  - layout: paper
+#    paper-type: inproceedings
+#    year: 2020
+#    title: "Anytime Sampling for Autoregressive Models via Ordered Autoencoding"
+#    authors: <b>Yilun Xu*</b>, Yang Song*, Sahaj Garg, Lingyuan Gong, Aditya Grover, Rui Shu, Stefano Ermon
+#    booktitle: "in submission"
+#    code-url:
+#    pdf-url: newbeeer.github.io/assets/files/anytime_paper.pdf
+#    venue: conference
+#    selected: yes
+#    doc-url:
+  - layout: paper
+    paper-type: inproceedings
+    year: 2021
+    title: "PSD: Principled Synthetic-to-Real Dehazing Guided by Physical Priors"
+    authors: <b>Zeyuan Chen</b>, Yangchao Wang, Yang Yang, Dong Liu
+    booktitle: "CVPR 2021 (Oral)"
+    code-url: https://github.com/zychen-ustc/PSD-Principled-Synthetic-to-Real-Dehazing-Guided-by-Physical-Priors/tree/main/PSD
+    pdf-url: https://openaccess.thecvf.com/content/CVPR2021/papers/Chen_PSD_Principled_Synthetic-to-Real_Dehazing_Guided_by_Physical_Priors_CVPR_2021_paper.pdf
+    venue: conference
+    selected: yes
+    doc-url: https://openaccess.thecvf.com/content/CVPR2021/papers/Chen_PSD_Principled_Synthetic-to-Real_Dehazing_Guided_by_Physical_Priors_CVPR_2021_paper.pdf
+  - layout: paper
+    paper-type: inproceedings
+    year: 2021
+    title: "CERL: A Unified Optimization Framework for Light Enhancement with Realistic Noise"
+    authors: <b>Zeyuan Chen</b>, Yifan Jiang, Dong Liu, Zhangyang Wang
+    booktitle: "Under Review"
+    code-url: https://github.com/VITA-Group/CERL
+    pdf-url: https://arxiv.org/pdf/2108.00478.pdf
+    venue: conference
+    selected: yes
+    doc-url: https://arxiv.org/abs/2108.00478
