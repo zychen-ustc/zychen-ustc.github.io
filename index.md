@@ -32,8 +32,9 @@ I am looking for a 2022 fall Ph.D. position.
     <img src="/assets/img/ucsd.png" alt="" width="100" height="100">
   </div>
   <div>
-    <h3>&nbsp;&nbsp;&nbsp;Apr. 2021 - Present: University of California, San Diego</h3>
+    <h3>&nbsp;&nbsp;&nbsp;University of California, San Diego</h3>
     <p> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Advisor: Xiaolong Wang</p>
+    <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Apr. 2021 - Present</p>
   </div>
 </div>
 
@@ -42,20 +43,25 @@ I am looking for a 2022 fall Ph.D. position.
     <img src="/assets/img/austin.png" alt="" width="100" height="100">
   </div>
   <div>
-    <h3>&nbsp;&nbsp;&nbsp;Jun. 2020 - Mar. 2021: University of Texas at Austin</h3>
-    <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;VITA Group</p>
+    <h3>&nbsp;&nbsp;&nbsp;University of Texas at Austin, VITA Group</h3>
     <p> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Advisor: Zhangyang(Atlas) Wang</p>
+    <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Jun. 2020 - Mar. 2021</p>
   </div>
 </div>
 
 <div style="clear: both;">
   <div style="float: left; margin-right 1em;">
-    <img src="/assets/img/mcmaster.png" alt="" width="100" height="100">
+    <img src="/assets/img/mcmaster.jpeg" alt="" width="100" height="100">
   </div>
   <div>
-    <h3>&nbsp;&nbsp;&nbsp;Jun. 2020 - Aug. 2020: McMaster University</h3>
-    <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Data Science Lab</p>
+    <h3>&nbsp;&nbsp;&nbsp;McMaster University, Data Science Lab</h3>
     <p> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Advisor: Fei Chiang</p>
+    <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Jun. 2020 - Aug. 2020</p>
   </div>
 </div>
 <br/>
+
+
+
+# Misc.
+I am a huge fan of Overwatch and I am a Track One Trick (๑•̀ㅂ•́)و✧
