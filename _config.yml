@@ -34,12 +34,12 @@ tagline:               >
 keywords:              []
 
 # Used by jekyll-seo-tag.
-logo:                  /assets/img/czy1.jpg
+logo:                  /assets/img/czy0.jpg
 
 # This should be the same author as first entry in `_data/authors.yml`.
 author:
   name:                Zeyuan Chen
-  picture:             /assets/img/czy1.jpg
+  picture:             /assets/img/czy0.jpg
   social:
     github:              zychen-ustc
     email:               'nnice1216@mail.ustc.edu.cn'
