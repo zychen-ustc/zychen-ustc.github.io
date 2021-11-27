@@ -6,7 +6,7 @@ cover: false
 
 Hi, I am Zeyuan Chen, a senior undergraduate majored in big data and data science at University of Science and Technology of China.
 
-My main research interests lie on Computer Vision, especially on the topics of low-level vision and 3D reconstruction. Currently I am a research assistant at [UCSD](https://ucsd.edu) working with [Xiaolong Wang](https://xiaolonw.github.io/). Before I worked on image restoration & enhancement tasks advised by [Zhangyang (Atlas) Wang](https://vita-group.github.io/) and [Dong Liu](http://staff.ustc.edu.cn/~dongeliu/). Here is my [curriculum vitae](https://zychen-ustc.github.io/CV1.pdf).
+My main research interests lie on Computer Vision, especially on the topics of low-level vision and 3D reconstruction. Currently I am a research assistant at [UCSD](https://ucsd.edu) working with [Xiaolong Wang](https://xiaolonw.github.io/). Before I worked on image restoration & enhancement tasks advised by [Zhangyang (Atlas) Wang](https://vita-group.github.io/) and [Dong Liu](http://staff.ustc.edu.cn/~dongeliu/). Here is my [curriculum vitae](https://zychen-ustc.github.io/CV2.pdf).
 
 **I am looking for a 2022 fall Ph.D. position.**
 
