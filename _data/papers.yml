@@ -28,10 +28,10 @@ papers:
     authors: <b>Zeyuan Chen</b>, Yinbo Chen, Jingwen Liu, Xingqian Xu, Vidit Goel, Zhangyang Wang, Humphrey Shi, Xiaolong Wang
     booktitle: "Submission to CVPR 2022"
     code-url: https://github.com/zychen-ustc/STIF
-    pdf-url: https://github.com/zychen-ustc/zychen-ustc.github.io/STIF.pdf
+    pdf-url: https://zychen-ustc.github.io/STIF2.pdf
     venue: conference
     selected: yes
-    doc-url: https://github.com/zychen-ustc/zychen-ustc.github.io/STIF.pdf
+    doc-url: https://zychen-ustc.github.io/STIF2.pdf
   - layout: paper
     paper-type: inproceedings
     year: 2021
