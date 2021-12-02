@@ -24,8 +24,8 @@
 
 .avatar {
   
-  width: 12rem;
-  height: 12rem;
+  width: 7rem;
+  height: 7rem;
   border-radius: 100%;
   overflow: hidden;
   
@@ -34,8 +34,8 @@
 
   
   @media screen and (min-width: $break-point-5) {
-    width: 12rem;
-    height: 12rem;
+    width: 10rem;
+    height: 10rem;
   }
   
 }
