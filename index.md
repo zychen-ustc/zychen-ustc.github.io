@@ -28,7 +28,7 @@ My main research interests lie on Computer Vision, especially on the topics of i
 # Research Experience
 <div style="clear: both;">
   <div style="float: left; margin-right 1em;">
-    <img src="/assets/img/uiuc.png" alt="" width="390" height="100">
+    <img src="/assets/img/uiuc2.png" alt="" width="120" height="120">
   </div>
   <div>
     <h3>&nbsp;&nbsp;&nbsp;University of Illinois Urbana-Champaign</h3>
@@ -39,7 +39,7 @@ My main research interests lie on Computer Vision, especially on the topics of i
 
 <div style="clear: both;">
   <div style="float: left; margin-right 1em;">
-    <img src="/assets/img/ucsd.png" alt="" width="150" height="150">
+    <img src="/assets/img/ucsd.png" alt="" width="120" height="120">
   </div>
   <div>
     <h3>&nbsp;&nbsp;&nbsp;University of California, San Diego</h3>
@@ -50,7 +50,7 @@ My main research interests lie on Computer Vision, especially on the topics of i
 
 <div style="clear: both;">
   <div style="float: left; margin-right 1em;">
-    <img src="/assets/img/austin.png" alt="" width="240" height="150">
+    <img src="/assets/img/austin.png" alt="" width="120" height="120">
   </div>
   <div>
     <h3>&nbsp;&nbsp;&nbsp;University of Texas at Austin, VITA Group</h3>
@@ -61,7 +61,7 @@ My main research interests lie on Computer Vision, especially on the topics of i
 
 <div style="clear: both;">
   <div style="float: left; margin-right 1em;">
-    <img src="/assets/img/mcm.png" alt="" width="150" height="150">
+    <img src="/assets/img/mcm2.png" alt="" width="120" height="120">
   </div>
   <div>
     <h3>&nbsp;&nbsp;&nbsp;McMaster University, Data Science Lab</h3>
