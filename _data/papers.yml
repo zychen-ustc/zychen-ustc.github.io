@@ -37,7 +37,7 @@ papers:
     year: 2021
     title: "CERL: A Unified Optimization Framework for Light Enhancement with Realistic Noise"
     authors: <b>Zeyuan Chen</b>, Yifan Jiang, Dong Liu, Zhangyang Wang
-    booktitle: "Under Review"
+    booktitle: "Submission to TIP"
     code-url: https://github.com/VITA-Group/CERL
     pdf-url: https://arxiv.org/pdf/2108.00478.pdf
     venue: conference
