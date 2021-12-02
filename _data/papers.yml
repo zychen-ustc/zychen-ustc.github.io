@@ -24,6 +24,17 @@ papers:
   - layout: paper
     paper-type: inproceedings
     year: 2021
+    title: "STIF: Learning Continuous Video Representation for Space-Time Super-Resolution"
+    authors: <b>Zeyuan Chen</b>, Yinbo Chen, Jingwen Liu, Xingqian Xu, Vidit Goel, Zhangyang Wang, Humphrey Shi, Xiaolong Wang
+    booktitle: "Submission to CVPR 2022"
+    code-url: https://github.com/zychen-ustc/STIF
+    pdf-url: https://openaccess.thecvf.com/content/CVPR2021/papers/Chen_PSD_Principled_Synthetic-to-Real_Dehazing_Guided_by_Physical_Priors_CVPR_2021_paper.pdf
+    venue: conference
+    selected: yes
+    doc-url: https://openaccess.thecvf.com/content/CVPR2021/papers/Chen_PSD_Principled_Synthetic-to-Real_Dehazing_Guided_by_Physical_Priors_CVPR_2021_paper.pdf
+  - layout: paper
+    paper-type: inproceedings
+    year: 2021
     title: "CERL: A Unified Optimization Framework for Light Enhancement with Realistic Noise"
     authors: <b>Zeyuan Chen</b>, Yifan Jiang, Dong Liu, Zhangyang Wang
     booktitle: "Under Review"
