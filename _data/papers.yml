@@ -28,10 +28,10 @@ papers:
     authors: <b>Zeyuan Chen</b>, Yinbo Chen, Jingwen Liu, Xingqian Xu, Vidit Goel, Zhangyang Wang, Humphrey Shi, Xiaolong Wang
     booktitle: "Submission to CVPR 2022"
     code-url: https://github.com/zychen-ustc/STIF
-    pdf-url: https://openaccess.thecvf.com/content/CVPR2021/papers/Chen_PSD_Principled_Synthetic-to-Real_Dehazing_Guided_by_Physical_Priors_CVPR_2021_paper.pdf
+    pdf-url: https://github.com/zychen-ustc/zychen-ustc.github.io/STIF.pdf
     venue: conference
     selected: yes
-    doc-url: https://openaccess.thecvf.com/content/CVPR2021/papers/Chen_PSD_Principled_Synthetic-to-Real_Dehazing_Guided_by_Physical_Priors_CVPR_2021_paper.pdf
+    doc-url: https://github.com/zychen-ustc/zychen-ustc.github.io/STIF.pdf
   - layout: paper
     paper-type: inproceedings
     year: 2021
