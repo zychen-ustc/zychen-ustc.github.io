@@ -1,4 +1,6 @@
-papers:
+papers:[InternetShortcut]
+URL=https://github.com/zychen-ustc/zychen-ustc.github.io/blob/main/_data/papers.yml
+
 #  - layout: paper
 #    paper-type: inproceedings
 #    year: 2020
@@ -27,11 +29,6 @@ papers:
     title: "STIF: Learning Continuous Video Representation for Space-Time Super-Resolution"
     authors: <b>Zeyuan Chen</b>, Yinbo Chen, Jingwen Liu, Xingqian Xu, Vidit Goel, Zhangyang Wang, Humphrey Shi, Xiaolong Wang
     booktitle: "Submission to CVPR 2022"
-    code-url: 
-    pdf-url: 
-    venue: conference
-    selected: yes
-    doc-url: 
     
   - layout: paper
     paper-type: inproceedings
