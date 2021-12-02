@@ -28,7 +28,7 @@ My main research interests lie on Computer Vision, especially on the topics of i
 # Research Experience
 <div style="clear: both;">
   <div style="float: left; margin-right 1em;">
-    <img src="/assets/img/uiuc3.png" alt="" width="100" height="100">
+    <img src="/assets/img/uiuc4.png" alt="" width="100" height="100">
   </div>
   <div>
     <h3>&nbsp;&nbsp;&nbsp;University of Illinois Urbana-Champaign</h3>
