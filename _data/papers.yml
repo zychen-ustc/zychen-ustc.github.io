@@ -13,6 +13,17 @@ papers:
   - layout: paper
     paper-type: inproceedings
     year: 2021
+    title: "STIF: Learning Continuous Video Representation for Space-Time Super-Resolution"
+    authors: <b>Zeyuan Chen</b>, Yinbo Chen, Jingwen Liu, Xingqian Xu, Vidit Goel, Zhangyang Wang, Humphrey Shi, Xiaolong Wang
+    booktitle: "CVPR 2022"
+    code-url: https://github.com/zychen-ustc/STIF
+    pdf-url: https://zychen-ustc.github.io/STIF2.pdf
+    venue: conference
+    selected: yes
+    doc-url: https://zychen-ustc.github.io/STIF2.pdf
+  - layout: paper
+    paper-type: inproceedings
+    year: 2021
     title: "PSD: Principled Synthetic-to-Real Dehazing Guided by Physical Priors"
     authors: <b>Zeyuan Chen</b>, Yangchao Wang, Yang Yang, Dong Liu
     booktitle: "CVPR 2021 (Oral)"
@@ -24,20 +35,9 @@ papers:
   - layout: paper
     paper-type: inproceedings
     year: 2021
-    title: "STIF: Learning Continuous Video Representation for Space-Time Super-Resolution"
-    authors: <b>Zeyuan Chen</b>, Yinbo Chen, Jingwen Liu, Xingqian Xu, Vidit Goel, Zhangyang Wang, Humphrey Shi, Xiaolong Wang
-    booktitle: "Submission to CVPR 2022"
-    code-url: https://github.com/zychen-ustc/STIF
-    pdf-url: https://zychen-ustc.github.io/STIF2.pdf
-    venue: conference
-    selected: yes
-    doc-url: https://zychen-ustc.github.io/STIF2.pdf
-  - layout: paper
-    paper-type: inproceedings
-    year: 2021
     title: "CERL: A Unified Optimization Framework for Light Enhancement with Realistic Noise"
     authors: <b>Zeyuan Chen</b>, Yifan Jiang, Dong Liu, Zhangyang Wang
-    booktitle: "Submission to TIP"
+    booktitle: "IEEE Transactions on Image Processing (TIP)"
     code-url: https://github.com/VITA-Group/CERL
     pdf-url: https://arxiv.org/pdf/2108.00478.pdf
     venue: conference
