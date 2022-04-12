@@ -8,7 +8,7 @@ Hi, I am Zeyuan Chen, a senior undergraduate majored in Data Science and Big Dat
 
 My main research interests lie on Computer Vision, especially on the topics of implicit neural representations, 3D reconstruction, and low-level vision. Currently I am a research assistant at UCSD (work with [Prof. Xiaolong Wang](https://xiaolonw.github.io/) on implicit representations) and UIUC (work with [Prof. Shenlong Wang](https://shenlong.web.illinois.edu/) on 3D reconstruction). Before I worked on developing image processing algorithms in real world advised by [Prof. Zhangyang (Atlas) Wang](https://vita-group.github.io/) and [Prof. Dong Liu](http://staff.ustc.edu.cn/~dongeliu/). Here is my [curriculum vitae](https://zychen-ustc.github.io/CV2.pdf).
 
-I am an incoming PhD student at UCSD, advised by Prof. [Zhuowen Tu](https://pages.ucsd.edu/~ztu/)
+I am an incoming PhD student at UCSD, advised by [Prof. Zhuowen Tu](https://pages.ucsd.edu/~ztu/)
 
 **Contact**: nnice1216@mail.ustc.edu.cn
 
