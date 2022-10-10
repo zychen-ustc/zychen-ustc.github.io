@@ -4,13 +4,11 @@ title: About me
 cover: false
 ---
 
-Hi, I am Zeyuan Chen, a senior undergraduate majored in Data Science and Big Data Technology at University of Science and Technology of China.
+Hi, I am Zeyuan Chen, a first-year PhD student at [University of California, San Diego](https://cse.ucsd.edu), advised by [Prof. Zhuowen Tu](https://pages.ucsd.edu/~ztu/). 
 
-My main research interests lie on Computer Vision, especially on the topics of implicit neural representations, 3D reconstruction, and low-level vision. Currently I am a research assistant at UCSD (work with [Prof. Xiaolong Wang](https://xiaolonw.github.io/) on implicit representations) and UIUC (work with [Prof. Shenlong Wang](https://shenlong.web.illinois.edu/) on 3D reconstruction). Before I worked on developing image processing algorithms in real world advised by [Prof. Zhangyang (Atlas) Wang](https://vita-group.github.io/) and [Prof. Dong Liu](http://staff.ustc.edu.cn/~dongeliu/). Here is my [curriculum vitae](https://zychen-ustc.github.io/CV2.pdf).
+My main research interests lie on 3D computer vision and machine learning, especially on topics such as 3D perception and modeling. I obtained my Bachelor's degree in Data Science and Big Data Technology from [University of Science and Technology of China](https://sds.ustc.edu.cn). I was fortunate to work with Prof. [Xiaolong Wang](https://xiaolonw.github.io/)@UCSD; Prof. [Shenlong Wang](https://shenlong.web.illinois.edu/)@UIUC; Prof. [Zhangyang (Atlas) Wang](https://vita-group.github.io/)@UT Austin and Prof. [Dong Liu](http://staff.ustc.edu.cn/~dongeliu/)@USTC. Here is my [curriculum vitae](https://zychen-ustc.github.io/CV2.pdf).
 
-I am an incoming PhD student at UCSD, advised by [Prof. Zhuowen Tu](https://pages.ucsd.edu/~ztu/)
-
-**Contact**: nnice1216@mail.ustc.edu.cn
+**Contact**: zec016@ucsd.edu
 
 # Publications 
 <ul>
@@ -33,7 +31,7 @@ I am an incoming PhD student at UCSD, advised by [Prof. Zhuowen Tu](https://page
   <div>
     <h3>&nbsp;&nbsp;&nbsp;University of Illinois Urbana-Champaign</h3>
     <p> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Advisor: Shenlong Wang</p>
-    <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Jun. 2021 - Present</p>
+    <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Jun. 2021 - Aug. 2022</p>
   </div>
 </div>
 
