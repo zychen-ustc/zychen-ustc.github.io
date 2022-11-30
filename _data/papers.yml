@@ -16,8 +16,8 @@ papers:
     title: "CASA: Category-agnostic Skeletal Animal Reconstruction"
     authors: Yuefan Wu*, <b>Zeyuan Chen*</b>, Shaowei Liu, Zhongzheng Ren, Shenlong Wang
     booktitle: "Neurips 2022"
-    code-url: http://zeyuan-chen.com
-    pdf-url: http://zeyuan-chen.com
+    code-url: https://ivenwu.com/CASA/
+    pdf-url: https://arxiv.org/abs/2211.03568
     venue: conference
     selected: yes
     doc-url: http://zeyuan-chen.com
