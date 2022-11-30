@@ -16,22 +16,22 @@ papers:
     title: "CASA: Category-agnostic Skeletal Animal Reconstruction"
     authors: Yuefan Wu*, <b>Zeyuan Chen*</b>, Shaowei Liu, Zhongzheng Ren, Shenlong Wang
     booktitle: "Neurips 2022"
-    code-url: https://ivenwu.com/CASA/
+    code-url: https://github.com/Iven-Wu/CASA
     pdf-url: https://arxiv.org/abs/2211.03568
     venue: conference
     selected: yes
-    doc-url: http://zeyuan-chen.com
+    project-url: https://ivenwu.com/CASA/
   - layout: paper
     paper-type: inproceedings
     year: 2021
     title: "VideoINR: Learning Video Implicit Neural Representation for Continuous Space-Time Super-Resolution"
     authors: <b>Zeyuan Chen</b>, Yinbo Chen, Jingwen Liu, Xingqian Xu, Vidit Goel, Zhangyang Wang, Humphrey Shi, Xiaolong Wang
     booktitle: "CVPR 2022"
-    code-url: https://github.com/Picsart-AI-Research/VideoINR-Continuous-Space-Time-Super-Resolution/tree/main/data
+    code-url: https://github.com/Picsart-AI-Research/VideoINR-Continuous-Space-Time-Super-Resolution/tree/main/
     pdf-url: https://openaccess.thecvf.com/content/CVPR2022/papers/Chen_VideoINR_Learning_Video_Implicit_Neural_Representation_for_Continuous_Space-Time_Super-Resolution_CVPR_2022_paper.pdf
     venue: conference
     selected: yes
-    doc-url: https://openaccess.thecvf.com/content/CVPR2022/papers/Chen_VideoINR_Learning_Video_Implicit_Neural_Representation_for_Continuous_Space-Time_Super-Resolution_CVPR_2022_paper.pdf
+    project-url: http://zeyuan-chen.com/VideoINR/
   - layout: paper
     paper-type: inproceedings
     year: 2021
