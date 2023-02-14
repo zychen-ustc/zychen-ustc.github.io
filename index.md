@@ -6,7 +6,7 @@ cover: false
 
 Hi, I am Zeyuan Chen, a first-year PhD student at [University of California, San Diego](https://cse.ucsd.edu), advised by [Prof. Zhuowen Tu](https://pages.ucsd.edu/~ztu/). 
 
-My current research focus is on 3D computer vision and machine learning, especially on topics such as 3D perception and modeling. I am also broadly interested in topics of computational photography and low-level vision. I obtained my Bachelor's degree in Data Science and Big Data Technology from [University of Science and Technology of China](https://sds.ustc.edu.cn). I was fortunate to work with Prof. [Xiaolong Wang](https://xiaolonw.github.io/)@UCSD; Prof. [Shenlong Wang](https://shenlong.web.illinois.edu/)@UIUC; Prof. [Zhangyang (Atlas) Wang](https://vita-group.github.io/)@UT Austin and Prof. [Dong Liu](http://staff.ustc.edu.cn/~dongeliu/)@USTC. Here is my [curriculum vitae](https://zychen-ustc.github.io/CV2.pdf).
+My current research focus is on 3D computer vision and machine learning, especially on topics such as 3D perception and modeling. I am also broadly interested in topics of computational photography and low-level vision. I obtained my Bachelor's degree in Data Science and Big Data Technology from [University of Science and Technology of China](https://sds.ustc.edu.cn). I was fortunate to work with Prof. [Xiaolong Wang](https://xiaolonw.github.io/)@UCSD; Prof. [Shenlong Wang](https://shenlong.web.illinois.edu/)@UIUC; Prof. [Zhangyang (Atlas) Wang](https://vita-group.github.io/)@UT Austin and Prof. [Dong Liu](http://staff.ustc.edu.cn/~dongeliu/)@USTC. Here is my [curriculum vitae](https://zychen-ustc.github.io/Resume_zeyuan_Feb23.pdf).
 
 **Contact**: zec016@ucsd.edu
 
