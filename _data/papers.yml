@@ -12,6 +12,28 @@ papers:
 #    doc-url:
   - layout: paper
     paper-type: inproceedings
+    year: 2023
+    title: "Uni-3D: A Universal Model for Panoptic 3D Scene Reconstruction"
+    authors: Xiang Zhang*, <b>Zeyuan Chen*</b>, Fangyin Wei, Zhuowen Tu
+    booktitle: "Neurips 2022"
+    code-url: https://github.com/mlpc-ucsd/Uni-3D
+    pdf-url: https://openaccess.thecvf.com/content/ICCV2023/papers/Zhang_Uni-3D_A_Universal_Model_for_Panoptic_3D_Scene_Reconstruction_ICCV_2023_paper.pdf
+    venue: conference
+    selected: yes
+    project-url: https://ivenwu.com/CASA/
+  - layout: paper
+    paper-type: inproceedings
+    year: 2021
+    title: "VideoINR: Learning Video Implicit Neural Representation for Continuous Space-Time Super-Resolution"
+    authors: <b>Zeyuan Chen</b>, Yinbo Chen, Jingwen Liu, Xingqian Xu, Vidit Goel, Zhangyang Wang, Humphrey Shi, Xiaolong Wang
+    booktitle: "CVPR 2022"
+    code-url: https://github.com/Picsart-AI-Research/VideoINR-Continuous-Space-Time-Super-Resolution/tree/main/
+    pdf-url: https://openaccess.thecvf.com/content/CVPR2022/papers/Chen_VideoINR_Learning_Video_Implicit_Neural_Representation_for_Continuous_Space-Time_Super-Resolution_CVPR_2022_paper.pdf
+    venue: conference
+    selected: yes
+    project-url: http://zeyuan-chen.com/VideoINR/
+  - layout: paper
+    paper-type: inproceedings
     year: 2021
     title: "CASA: Category-agnostic Skeletal Animal Reconstruction"
     authors: Yuefan Wu*, <b>Zeyuan Chen*</b>, Shaowei Liu, Zhongzheng Ren, Shenlong Wang
@@ -54,3 +76,14 @@ papers:
     venue: conference
     selected: yes
     doc-url: https://arxiv.org/abs/2108.00478
+  - layout: paper
+    paper-type: inproceedings
+    year: 2023
+    title: "Uni-3D: A Universal Model for Panoptic 3D Scene Reconstruction"
+    authors: Wenbo Hu*, Yifan Xu*, Yi Li, Weiyue Li, <b>Zeyuan Chen</b>, Zhuowen Tu
+    booktitle: "AAAI 2024"
+    code-url: https://github.com/mlpc-ucsd/BLIVA
+    pdf-url: https://arxiv.org/abs/2308.09936
+    venue: conference
+    selected: yes
+    project-url: https://github.com/mlpc-ucsd/BLIVA
