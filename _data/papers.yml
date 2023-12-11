@@ -20,18 +20,7 @@ papers:
     pdf-url: https://openaccess.thecvf.com/content/ICCV2023/papers/Zhang_Uni-3D_A_Universal_Model_for_Panoptic_3D_Scene_Reconstruction_ICCV_2023_paper.pdf
     venue: conference
     selected: yes
-    project-url: https://ivenwu.com/CASA/
-  - layout: paper
-    paper-type: inproceedings
-    year: 2021
-    title: "VideoINR: Learning Video Implicit Neural Representation for Continuous Space-Time Super-Resolution"
-    authors: <b>Zeyuan Chen</b>, Yinbo Chen, Jingwen Liu, Xingqian Xu, Vidit Goel, Zhangyang Wang, Humphrey Shi, Xiaolong Wang
-    booktitle: "CVPR 2022"
-    code-url: https://github.com/Picsart-AI-Research/VideoINR-Continuous-Space-Time-Super-Resolution/tree/main/
-    pdf-url: https://openaccess.thecvf.com/content/CVPR2022/papers/Chen_VideoINR_Learning_Video_Implicit_Neural_Representation_for_Continuous_Space-Time_Super-Resolution_CVPR_2022_paper.pdf
-    venue: conference
-    selected: yes
-    project-url: http://zeyuan-chen.com/VideoINR/
+    project-url: https://github.com/mlpc-ucsd/Uni-3D
   - layout: paper
     paper-type: inproceedings
     year: 2021
@@ -79,7 +68,7 @@ papers:
   - layout: paper
     paper-type: inproceedings
     year: 2023
-    title: "Uni-3D: A Universal Model for Panoptic 3D Scene Reconstruction"
+    title: "Bliva: A Simple Multimodal LLM for Better Handling of Text-rich Visual Questions"
     authors: Wenbo Hu*, Yifan Xu*, Yi Li, Weiyue Li, <b>Zeyuan Chen</b>, Zhuowen Tu
     booktitle: "AAAI 2024"
     code-url: https://github.com/mlpc-ucsd/BLIVA
