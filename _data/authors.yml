@@ -17,8 +17,8 @@ author1:
   # Social media icons in sidebar.
   # Comment/uncommet to show/hide. Rearrange to change the order in which they appear.
   social:
-    github:           zychen-ustc
     email:            'nnice1216@mail.ustc.edu.cn'
+    github:           zychen-ustc
     googlescholar:     citations?user=dvplAJkAAAAJ&hl=en
     # twitter:           there_are_two_
     # linkedin:        <firstname-lastname-string>
