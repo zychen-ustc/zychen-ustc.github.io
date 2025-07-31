@@ -245,7 +245,14 @@
   content: "\ead8";
 }
 .icon-mail:before {
-  content: "\ea83";
+  content: "";
+  display: inline-block;
+  width: 1em;
+  height: 1em;
+  background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 24 24'%3E%3Cpath fill='%23ea4335' d='M24 5.457v13.087c0 .904-.732 1.636-1.636 1.636H1.636C.732 20.18 0 19.448 0 18.544V5.457c0-.904.732-1.636 1.636-1.636h20.728C23.268 3.821 24 4.553 24 5.457z'/%3E%3Cpath fill='%23c5221f' d='m0 18.544 7.614-6.256L24 18.544v.002H0z'/%3E%3Cpath fill='%23dd4b39' d='M1.636 3.821c-.901 0-1.636.732-1.636 1.636v.274L12 13.287l12-7.556v-.274c0-.904-.732-1.636-1.636-1.636z'/%3E%3Cpath fill='%23c23321' d='M0 5.457v.274L12 13.287 24 5.731V5.457L12 12.85z'/%3E%3C/svg%3E");
+  background-size: contain;
+  background-repeat: no-repeat;
+  background-position: center;
 }
 .icon-rss2:before {
   content: "\ea9c";
