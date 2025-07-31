@@ -44,3 +44,10 @@ a.sidebar-nav-item {
 .sidebar-about p {
   color: rgba(0, 0, 0, 0.75);
 }
+
+// Style for highlight and oral papers
+.highlight-paper, .oral-paper {
+  color: #dc3545 !important;
+  font-weight: bold !important;
+  font-style: normal !important;
+}
