@@ -37,7 +37,7 @@ Previously, I was a Research Scientist Intern at TikTok, working with [Dr. Hongy
 
 <div style="clear: both;">
   <div style="float: left; margin-right 1em;">
-    <img src="/assets/img/tiktok2.png" alt="" width="100" height="100">
+    <img src="/assets/img/tiktok2.jpg" alt="" width="100" height="100">
   </div>
   <div>
     <h3>&nbsp;&nbsp;&nbsp;TikTok</h3>
@@ -48,7 +48,7 @@ Previously, I was a Research Scientist Intern at TikTok, working with [Dr. Hongy
 
 <div style="clear: both;">
   <div style="float: left; margin-right 1em;">
-    <img src="/assets/img/tiktok2.png" alt="" width="100" height="100">
+    <img src="/assets/img/tiktok2.jpg" alt="" width="100" height="100">
   </div>
   <div>
     <h3>&nbsp;&nbsp;&nbsp;TikTok</h3>
