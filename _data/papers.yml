@@ -129,7 +129,6 @@ papers:
     pdf-url: https://openaccess.thecvf.com/content/CVPR2021/papers/Chen_PSD_Principled_Synthetic-to-Real_Dehazing_Guided_by_Physical_Priors_CVPR_2021_paper.pdf
     venue: conference
     selected: yes
-    doc-url: https://openaccess.thecvf.com/content/CVPR2021/papers/Chen_PSD_Principled_Synthetic-to-Real_Dehazing_Guided_by_Physical_Priors_CVPR_2021_paper.pdf
   - layout: paper
     paper-type: inproceedings
     year: 2021
@@ -140,4 +139,3 @@ papers:
     pdf-url: https://arxiv.org/pdf/2108.00478.pdf
     venue: conference
     selected: yes
-    doc-url: https://arxiv.org/abs/2108.00478
