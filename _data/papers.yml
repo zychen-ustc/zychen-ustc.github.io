@@ -10,10 +10,10 @@ papers:
 #    venue: conference
 #    selected: yes
 #    doc-url:
- - layout: paper
+  - layout: paper
     paper-type: inproceedings
-    year: 2024
-    title: "DepR: Depth Guided Single-view Scene Reconstruction with Instance-level Diffusion"
+    year: 2025
+    title: "X-dancer: Expressive music to human dance video generation"
     authors: <b>Zeyuan Chen</b>, Hongyi Xu, Guoxian Song, You Xie, Chenxu Zhang, Xin Chen, Chao Wang, Di Chang, Linjie Luo
     booktitle: "ICCV 2025 (Highlight)"
     code-url: https://zeyuan-chen.com/X-Dancer/
@@ -21,7 +21,7 @@ papers:
     venue: conference
     selected: yes
     project-url: https://zeyuan-chen.com/X-Dancer/
- - layout: paper
+  - layout: paper
     paper-type: inproceedings
     year: 2025
     title: "DepR: Depth Guided Single-view Scene Reconstruction with Instance-level Diffusion"
