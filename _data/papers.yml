@@ -10,6 +10,82 @@ papers:
 #    venue: conference
 #    selected: yes
 #    doc-url:
+ - layout: paper
+    paper-type: inproceedings
+    year: 2024
+    title: "DepR: Depth Guided Single-view Scene Reconstruction with Instance-level Diffusion"
+    authors: <b>Zeyuan Chen</b>, Hongyi Xu, Guoxian Song, You Xie, Chenxu Zhang, Xin Chen, Chao Wang, Di Chang, Linjie Luo
+    booktitle: "ICCV 2025 (Highlight)"
+    code-url: https://zeyuan-chen.com/X-Dancer/
+    pdf-url: https://arxiv.org/pdf/2502.17414
+    venue: conference
+    selected: yes
+    project-url: https://zeyuan-chen.com/X-Dancer/
+ - layout: paper
+    paper-type: inproceedings
+    year: 2025
+    title: "DepR: Depth Guided Single-view Scene Reconstruction with Instance-level Diffusion"
+    authors: Qingcheng Zhao*, Xiang Zhang*, Haiyang Xu, <b>Zeyuan Chen</b>, Jianwen Xie, Yuan Gao, Zhuowen Tu
+    booktitle: "ICCV 2025"
+    code-url: https://github.com/mlpc-ucsd/
+    pdf-url: https://arxiv.org/pdf/2507.22825
+    venue: conference
+    selected: yes
+    project-url: https://mlpc-ucsd.github.io/DepR/
+  - layout: paper
+    paper-type: inproceedings
+    year: 2025
+    title: "X-dyna: Expressive dynamic human image animation"
+    authors: Di Chang, Hongyi Xu, You Xie, Yipeng Gao, Zhengfei Kuang, Shengqu Cai, Chenxu Zhang, Guoxian Song, Chao Wang, Yichun Shi, <b>Zeyuan Chen</b>, Shijie Zhou, Linjie Luo, Gordon Wetzstein, Mohammad Soleymani
+    booktitle: "CVPR 2025 (Highlight)"
+    code-url: https://github.com/bytedance/X-Dyna
+    pdf-url: https://openaccess.thecvf.com/content/CVPR2025/papers/Chang_X-Dyna_Expressive_Dynamic_Human_Image_Animation_CVPR_2025_paper.pdf
+    venue: conference
+    selected: yes
+    project-url: https://x-dyna.github.io/xdyna.github.io/
+  - layout: paper
+    paper-type: inproceedings
+    year: 2024
+    title: "Dolfin: Diffusion Layout Transformers without Autoencoder"
+    authors: Yilin Wang, <b>Zeyuan Chen</b>, Liangjun Zhong, Zheng Ding, Zhizhou Sha, Zhuowen Tu
+    booktitle: "ECCV 2024"
+    code-url: https://github.com/mlpc-ucsd/
+    pdf-url: https://www.ecva.net/papers/eccv_2024/papers_ECCV/papers/06812.pdf
+    venue: conference
+    selected: yes
+  - layout: paper
+    paper-type: inproceedings
+    year: 2024
+    title: "Bayesian Diffusion Models for 3D Shape Reconstruction"
+    authors: Haiyang Xu*, Yu Lei*, <b>Zeyuan Chen</b>, Xiang Zhang, Yue Zhao, Yilin Wang, Zhuowen Tu
+    booktitle: "CVPR 2024"
+    code-url: https://github.com/mlpc-ucsd/BDM
+    pdf-url: https://openaccess.thecvf.com/content/CVPR2024/papers/Xu_Bayesian_Diffusion_Models_for_3D_Shape_Reconstruction_CVPR_2024_paper.pdf
+    venue: conference
+    selected: yes
+    project-url: https://mlpc-ucsd.github.io/BDM/
+  - layout: paper
+    paper-type: inproceedings
+    year: 2023
+    title: "Bliva: A Simple Multimodal LLM for Better Handling of Text-rich Visual Questions"
+    authors: Wenbo Hu*, Yifan Xu*, Yi Li, Weiyue Li, <b>Zeyuan Chen</b>, Zhuowen Tu
+    booktitle: "AAAI 2024"
+    code-url: https://github.com/mlpc-ucsd/BLIVA
+    pdf-url: https://arxiv.org/abs/2308.09936
+    venue: conference
+    selected: yes
+    project-url: https://github.com/mlpc-ucsd/BLIVA
+  - layout: paper
+    paper-type: inproceedings
+    year: 2023
+    title: "Uni-3D: A Universal Model for Panoptic 3D Scene Reconstruction"
+    authors: Xiang Zhang*, <b>Zeyuan Chen*</b>, Fangyin Wei, Zhuowen Tu
+    booktitle: "ICCV 2023"
+    code-url: https://github.com/mlpc-ucsd/Uni-3D
+    pdf-url: https://openaccess.thecvf.com/content/ICCV2023/papers/Zhang_Uni-3D_A_Universal_Model_for_Panoptic_3D_Scene_Reconstruction_ICCV_2023_paper.pdf
+    venue: conference
+    selected: yes
+    project-url: https://github.com/mlpc-ucsd/Uni-3D
   - layout: paper
     paper-type: inproceedings
     year: 2023
@@ -65,14 +141,3 @@ papers:
     venue: conference
     selected: yes
     doc-url: https://arxiv.org/abs/2108.00478
-  - layout: paper
-    paper-type: inproceedings
-    year: 2023
-    title: "Bliva: A Simple Multimodal LLM for Better Handling of Text-rich Visual Questions"
-    authors: Wenbo Hu*, Yifan Xu*, Yi Li, Weiyue Li, <b>Zeyuan Chen</b>, Zhuowen Tu
-    booktitle: "AAAI 2024"
-    code-url: https://github.com/mlpc-ucsd/BLIVA
-    pdf-url: https://arxiv.org/abs/2308.09936
-    venue: conference
-    selected: yes
-    project-url: https://github.com/mlpc-ucsd/BLIVA
