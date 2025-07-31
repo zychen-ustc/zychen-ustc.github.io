@@ -26,6 +26,39 @@ Previously, I was a Research Scientist Intern at TikTok, working with [Dr. Hongy
 # Research Experience
 <div style="clear: both;">
   <div style="float: left; margin-right 1em;">
+    <img src="/assets/img/adobe.png" alt="" width="100" height="100">
+  </div>
+  <div>
+    <h3>&nbsp;&nbsp;&nbsp;Adobe</h3>
+    <p> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Mentor: Yuanjun Xiong, Kai Zhang</p>
+    <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Jun. 2025 - Nov. 2025</p>
+  </div>
+</div>
+
+<div style="clear: both;">
+  <div style="float: left; margin-right 1em;">
+    <img src="/assets/img/tiktok.png" alt="" width="100" height="100">
+  </div>
+  <div>
+    <h3>&nbsp;&nbsp;&nbsp;TikTok</h3>
+    <p> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Mentor: Hongyi Xu, Linjie Luo</p>
+    <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Jun. 2024 - Nov. 2024</p>
+  </div>
+</div>
+
+<div style="clear: both;">
+  <div style="float: left; margin-right 1em;">
+    <img src="/assets/img/tiktok.png" alt="" width="100" height="100">
+  </div>
+  <div>
+    <h3>&nbsp;&nbsp;&nbsp;TikTok</h3>
+    <p> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Mentor: Peng Wang, Kejie Li</p>
+    <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Jun. 2023 - Nov. 2023</p>
+  </div>
+</div>
+
+<div style="clear: both;">
+  <div style="float: left; margin-right 1em;">
     <img src="/assets/img/uiuc4.png" alt="" width="100" height="100">
   </div>
   <div>
