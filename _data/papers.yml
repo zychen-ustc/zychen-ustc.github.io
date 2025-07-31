@@ -88,17 +88,6 @@ papers:
     project-url: https://github.com/mlpc-ucsd/Uni-3D
   - layout: paper
     paper-type: inproceedings
-    year: 2023
-    title: "Uni-3D: A Universal Model for Panoptic 3D Scene Reconstruction"
-    authors: Xiang Zhang*, <b>Zeyuan Chen*</b>, Fangyin Wei, Zhuowen Tu
-    booktitle: "ICCV 2023"
-    code-url: https://github.com/mlpc-ucsd/Uni-3D
-    pdf-url: https://openaccess.thecvf.com/content/ICCV2023/papers/Zhang_Uni-3D_A_Universal_Model_for_Panoptic_3D_Scene_Reconstruction_ICCV_2023_paper.pdf
-    venue: conference
-    selected: yes
-    project-url: https://github.com/mlpc-ucsd/Uni-3D
-  - layout: paper
-    paper-type: inproceedings
     year: 2021
     title: "CASA: Category-agnostic Skeletal Animal Reconstruction"
     authors: Yuefan Wu*, <b>Zeyuan Chen*</b>, Shaowei Liu, Zhongzheng Ren, Shenlong Wang
