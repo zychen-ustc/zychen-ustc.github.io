@@ -13,7 +13,7 @@ papers:
   - layout: paper
     paper-type: inproceedings
     year: 2025
-    title: "X-dancer: Expressive music to human dance video generation"
+    title: "X-Dancer: Expressive music to human dance video generation"
     authors: <b>Zeyuan Chen</b>, Hongyi Xu, Guoxian Song, You Xie, Chenxu Zhang, Xin Chen, Chao Wang, Di Chang, Linjie Luo
     booktitle: "ICCV 2025 (Highlight)"
     code-url: https://zeyuan-chen.com/X-Dancer/
