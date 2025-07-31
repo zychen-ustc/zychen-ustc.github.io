@@ -3,7 +3,14 @@
 {% if include.paper.authors %}{{ include.paper.authors }}.{% endif %}<br/>
 {% case include.paper.paper-type %}
   {% when "inproceedings" %}
-    In <i>{{ include.paper.booktitle }}</i>.<br/>
+    {% assign booktitle_with_style = include.paper.booktitle %}
+    {% if include.paper.booktitle contains "Highlight" %}
+      {% assign booktitle_with_style = include.paper.booktitle | replace: "(Highlight)", '<span class="highlight-paper">(Highlight)</span>' %}
+    {% endif %}
+    {% if include.paper.booktitle contains "Oral" %}
+      {% assign booktitle_with_style = booktitle_with_style | replace: "(Oral)", '<span class="oral-paper">(Oral)</span>' %}
+    {% endif %}
+    In <i>{{ booktitle_with_style }}</i>.<br/>
     <a href="{{ include.paper.pdf-url }}" target="_blank">[PDF]</a>,<a href="{{ include.paper.code-url }}">[Code]</a>,<a href="{{ include.paper.project-url }}">[Project page]</a>
   {% when "article" %}
     In <i>{{ include.paper.journal }}</i>,
