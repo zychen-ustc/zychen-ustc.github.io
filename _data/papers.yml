@@ -35,6 +35,16 @@ papers:
   - layout: paper
     paper-type: inproceedings
     year: 2025
+    title: "YOLO-Count: Differentiable Object Counting for Text-to-Image Generation"
+    authors: Guanning Zeng, Xiang Zhang, Zirui Wang, Haiyang Xu, <b>Zeyuan Chen</b>, Bingnan Li, Zhuowen Tu
+    booktitle: "ICCV 2025"
+    code-url: https://github.com/mlpc-ucsd/
+    pdf-url: https://github.com/mlpc-ucsd/
+    venue: conference
+    selected: yes
+  - layout: paper
+    paper-type: inproceedings
+    year: 2025
     title: "X-dyna: Expressive dynamic human image animation"
     authors: Di Chang, Hongyi Xu, You Xie, Yipeng Gao, Zhengfei Kuang, Shengqu Cai, Chenxu Zhang, Guoxian Song, Chao Wang, Yichun Shi, <b>Zeyuan Chen</b>, Shijie Zhou, Linjie Luo, Gordon Wetzstein, Mohammad Soleymani
     booktitle: "CVPR 2025 (Highlight)"
