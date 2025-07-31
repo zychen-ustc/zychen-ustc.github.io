@@ -4,9 +4,9 @@ title: About me
 cover: false
 ---
 
-Hi, I am Zeyuan Chen, a first-year PhD student at [University of California, San Diego](https://cse.ucsd.edu), advised by [Prof. Zhuowen Tu](https://pages.ucsd.edu/~ztu/). 
+Hi, I am Zeyuan Chen, a PhD student at [University of California, San Diego](https://cse.ucsd.edu), advised by [Prof. Zhuowen Tu](https://pages.ucsd.edu/~ztu/). My current research focus is on generative models, especially on topics such as controllable image, video, and 3D generation. I am also a research intern at Adobe Firefly with [Dr. Yuanjun Xiong](https://yjxiong.me/) and [Dr. Kai Zhang](https://kai-46.github.io/website/), working on building video generation models.
 
-My current research focus is on 3D computer vision and machine learning, especially on topics such as 3D perception and modeling. I am also broadly interested in topics of computational photography and low-level vision. I obtained my Bachelor's degree in Data Science and Big Data Technology from [University of Science and Technology of China](https://sds.ustc.edu.cn). I was fortunate to work with Prof. [Xiaolong Wang](https://xiaolonw.github.io/)@UCSD; Prof. [Shenlong Wang](https://shenlong.web.illinois.edu/)@UIUC; Prof. [Zhangyang (Atlas) Wang](https://vita-group.github.io/)@UT Austin and Prof. [Dong Liu](http://staff.ustc.edu.cn/~dongeliu/)@USTC. Here is my [curriculum vitae](https://zychen-ustc.github.io/Resume_zeyuan_Feb23.pdf).
+Previously, I was a Research Scientist Intern at TikTok, working with [Dr. Hongyi Xu](https://hongyixu37.github.io/homepage/) and [Dr. Linjie Luo](https://linjieluo.github.io/) in 2024 summer, and with [Dr. Peng Wang](https://pengwangucla.github.io/peng-wang.github.io/) and [Dr. Kejie Li](https://likojack.github.io/kejieli/#/home) in 2023 summer. I obtained my Bachelor's degree in Data Science and Big Data Technology from [University of Science and Technology of China](https://sds.ustc.edu.cn). I was fortunate to work with Prof. [Xiaolong Wang](https://xiaolonw.github.io/)@UCSD; Prof. [Shenlong Wang](https://shenlong.web.illinois.edu/)@UIUC; Prof. [Zhangyang (Atlas) Wang](https://vita-group.github.io/)@UT Austin and Prof. [Dong Liu](http://staff.ustc.edu.cn/~dongeliu/)@USTC. Here is my [curriculum vitae](https://zychen-ustc.github.io/Resume_zeyuan_Feb23.pdf).
 
 **Contact**: zec016@ucsd.edu
 
@@ -54,17 +54,6 @@ My current research focus is on 3D computer vision and machine learning, especia
     <h3>&nbsp;&nbsp;&nbsp;University of Texas at Austin, VITA Group</h3>
     <p> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Advisor: Zhangyang (Atlas) Wang</p>
     <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Jun. 2020 - Mar. 2021</p>
-  </div>
-</div>
-
-<div style="clear: both;">
-  <div style="float: left; margin-right 1em;">
-    <img src="/assets/img/mcm3.png" alt="" width="100" height="100">
-  </div>
-  <div>
-    <h3>&nbsp;&nbsp;&nbsp;McMaster University, Data Science Lab</h3>
-    <p> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Advisor: Fei Chiang</p>
-    <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Jun. 2020 - Aug. 2020</p>
   </div>
 </div>
 <br/>
