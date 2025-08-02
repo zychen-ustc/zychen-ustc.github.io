@@ -27,7 +27,7 @@ papers:
     title: "DepR: Depth Guided Single-view Scene Reconstruction with Instance-level Diffusion"
     authors: Qingcheng Zhao*, Xiang Zhang*, Haiyang Xu, <b>Zeyuan Chen</b>, Jianwen Xie, Yuan Gao, Zhuowen Tu
     booktitle: "ICCV 2025"
-    code-url: https://github.com/mlpc-ucsd/
+    code-url: https://github.com/mlpc-ucsd/DepR
     pdf-url: https://arxiv.org/pdf/2507.22825
     venue: conference
     selected: yes
