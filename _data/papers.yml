@@ -16,22 +16,22 @@ papers:
     title: "Central-Peripheral Vision-Inspired Multimodality Models for Spatial Reasoning"
     authors: <b>Zeyuan Chen</b>, Xiang Zhang, Haiyang Xu, Jianwen Xie, Zhuowen Tu
     booktitle: "WACV 2026"
-    code-url: https://zeyuan-chen.com/
-    pdf-url: https://zeyuan-chen.com/
+    code-url: https://zychen-ustc.github.io/
+    pdf-url: https://zychen-ustc.github.io/
     venue: conference
     selected: yes
-    project-url: https://zeyuan-chen.com/
+    project-url: https://zychen-ustc.github.io/
   - layout: paper
     paper-type: inproceedings
     year: 2025
     title: "X-Dancer: Expressive music to human dance video generation"
     authors: <b>Zeyuan Chen</b>, Hongyi Xu, Guoxian Song, You Xie, Chenxu Zhang, Xin Chen, Chao Wang, Di Chang, Linjie Luo
     booktitle: "ICCV 2025 (Highlight)"
-    code-url: https://zeyuan-chen.com/X-Dancer/
+    code-url: https://zychen-ustc.github.io/X-Dancer/
     pdf-url: https://arxiv.org/pdf/2502.17414
     venue: conference
     selected: yes
-    project-url: https://zeyuan-chen.com/X-Dancer/
+    project-url: https://zychen-ustc.github.io/X-Dancer/
   - layout: paper
     paper-type: inproceedings
     year: 2025
@@ -128,7 +128,7 @@ papers:
     pdf-url: https://openaccess.thecvf.com/content/CVPR2022/papers/Chen_VideoINR_Learning_Video_Implicit_Neural_Representation_for_Continuous_Space-Time_Super-Resolution_CVPR_2022_paper.pdf
     venue: conference
     selected: yes
-    project-url: http://zeyuan-chen.com/VideoINR/
+    project-url: https://zychen-ustc.github.io/VideoINR/
   - layout: paper
     paper-type: inproceedings
     year: 2021
