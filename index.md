@@ -94,4 +94,4 @@ Previously, I was a Research Scientist Intern at TikTok, working with [Dr. Hongy
 
 
 # Misc.
-I am a huge fan of Overwatch and I am a Tracer One Trick (๑•̀ㅂ•́)و✧
+I am a huge fan of Overwatch (๑•̀ㅂ•́)و✧
