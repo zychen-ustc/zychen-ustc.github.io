@@ -25,7 +25,7 @@ Previously, I was a Research Intern @ <img src="/assets/img/snap.webp" alt="" re
 {% endfor %}
 </ul>
 
-<h1>Research Experience</h1>
+<h1>Experience</h1>
 <div class="hr pb0"></div>
 
 <div style="clear: both;">
