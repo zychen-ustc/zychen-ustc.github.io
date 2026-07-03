@@ -3,7 +3,7 @@
 # You can change `author1` to your shortname.
 author1:
   name:              Zeyuan Chen
-  email:             nnice1216@mail.ustc.edu.cn
+  email:             zec016@ucsd.edu
 
   # Used at the bottom of each page and at the top of the `about` layout
   # Markdown enabled, can use multiple paragraphs (enabled by `|`)
@@ -17,9 +17,9 @@ author1:
   # Social media icons in sidebar.
   # Comment/uncommet to show/hide. Rearrange to change the order in which they appear.
   social:
-    email:            'nnice1216@mail.ustc.edu.cn'
+    email:            'zec016@ucsd.edu'
     github:           zychen-ustc
     googlescholar:     citations?user=dvplAJkAAAAJ&hl=en
+    linkedin:         zeyuan-chen-76b501254
     # twitter:           there_are_two_
-    # linkedin:        <firstname-lastname-string>
 
