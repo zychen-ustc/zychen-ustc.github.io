@@ -24,7 +24,7 @@ title:                Zeyuan Chen
 # A short description (~150 chars) of the page used for the meta description tag.
 # Can use markdown, but no more than one paragraph (enforced by `>`)
 description:           >
-  PhD student at UC San Diego
+  PhD candidate at UC San Diego
 
 # A shorter description for the sidebar.
 tagline:               >
@@ -39,7 +39,6 @@ logo:                  /assets/img/czy.jpg
 # This should be the same author as first entry in `_data/authors.yml`.
 author:
   name:                Zeyuan Chen
-  picture:             /assets/img/Me2.jpeg
   social:
     email:               'zec016@ucsd.edu'
     github:              zychen-ustc
@@ -63,15 +62,16 @@ legal:
 permalink:             /:categories/:year-:month-:day-:title/
 
 # Pagination configuration (used by the `blog` layout)
-paginate:              5
-paginate_path:         /page-:num/
+# Disabled: no blog on this site.
+# paginate:              5
+# paginate_path:         /page-:num/
 
 
 # Customizaton
 # ========================================================================================
 
 # Sidebar image and theme color of the site.
-accent_image:          /assets/img/sheep.png
+accent_image:          /assets/img/sheep.webp
 accent_color:          rgb(79,177,186)
 
 # This is used for the `theme-color` meta tag,

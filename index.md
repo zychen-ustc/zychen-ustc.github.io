@@ -6,11 +6,12 @@ cover: false
 
 <p style="color: red;"><strong>I'm currently looking for full-time opportunities starting in Fall 2026.</strong></p>
 
-Hi, I am Zeyuan Chen, a PhD student at [University of California, San Diego](https://cse.ucsd.edu), advised by [Prof. Zhuowen Tu](https://pages.ucsd.edu/~ztu/). My current research focus is on building visual generative models and unified understanding and generation models. I am a Research Intern @ <img src="/assets/img/adobe.png" alt="" re-ignore style="height:1em;width:auto;display:inline-block;vertical-align:-0.15em;margin:0 0.15em 0 0;">Adobe Firefly with Dr. [Yuanjun Xiong](https://yjxiong.me/) and Dr. [Mingze Xu](https://xumingze0308.github.io/), exploring scalable architecture designs for video in Adobe's next-generation unified generative model.
+Hi, I am Zeyuan Chen, a PhD candidate at [University of California, San Diego](https://cse.ucsd.edu), advised by [Prof. Zhuowen Tu](https://pages.ucsd.edu/~ztu/). My current research focus is on building visual generative models and unified understanding and generation models. I am a Research Intern @ <img src="/assets/img/adobe.png" alt="" re-ignore style="height:1em;width:auto;display:inline-block;vertical-align:-0.15em;margin:0 0.15em 0 0;">Adobe Firefly with Dr. [Yuanjun Xiong](https://yjxiong.me/) and Dr. [Mingze Xu](https://xumingze0308.github.io/), exploring scalable architecture designs for video in Adobe's next-generation unified generative model.
 
-Previously, I was a Research Intern @ <img src="/assets/img/snap.png" alt="" re-ignore style="height:1em;width:auto;display:inline-block;vertical-align:-0.15em;margin:0 0.15em 0 0;">Snap Research, working with Dr. [Bing Zhou](https://zhoubinwy.github.io/), Dr. [Zhikang Dong](https://www.linkedin.com/in/zhikang-dong/), and Dr. [Hao Chen](https://scholar.google.com/citations?user=3YpwwsYAAAAJ&hl=en) this past spring. I was a Research Intern @ <img src="/assets/img/adobe.png" alt="" re-ignore style="height:1em;width:auto;display:inline-block;vertical-align:-0.15em;margin:0 0.15em 0 0;">Adobe Firefly with Dr. [Yuanjun Xiong](https://yjxiong.me/) and Dr. [Kai Zhang](https://kai-46.github.io/website/) in summer 2025, and a Research Scientist Intern @ <img src="/assets/img/tiktok4.png" alt="" re-ignore style="height:1em;width:auto;display:inline-block;vertical-align:-0.15em;margin:0 0.15em 0 0;">TikTok, working with Dr. [Hongyi Xu](https://hongyixu37.github.io/homepage/) and Dr. [Linjie Luo](https://linjieluo.github.io/) in summer 2024, and with Dr. [Peng Wang](https://pengwangucla.github.io/peng-wang.github.io/) and Dr. [Kejie Li](https://likojack.github.io/kejieli/#/home) in summer 2023. I obtained my bachelor's degree from the [School of the Gifted Young](https://en.scgy.ustc.edu.cn/) at the University of Science and Technology of China, and was fortunate to work with Prof. [Xiaolong Wang](https://xiaolonw.github.io/)@UCSD; Prof. [Shenlong Wang](https://shenlong.web.illinois.edu/)@UIUC; Prof. [Zhangyang (Atlas) Wang](https://vita-group.github.io/)@UT Austin and Prof. [Dong Liu](http://staff.ustc.edu.cn/~dongeliu/)@USTC. Here is my [curriculum vitae](https://zychen-ustc.github.io/Resume_zeyuan_Feb23.pdf).
+Previously, I was a Research Intern @ <img src="/assets/img/snap.webp" alt="" re-ignore style="height:1em;width:auto;display:inline-block;vertical-align:-0.15em;margin:0 0.15em 0 0;">Snap Research, working with Dr. [Bing Zhou](https://zhoubinwy.github.io/), Dr. [Zhikang Dong](https://www.linkedin.com/in/zhikang-dong/), and Dr. [Hao Chen](https://scholar.google.com/citations?user=3YpwwsYAAAAJ&hl=en) this past spring. I was a Research Intern @ <img src="/assets/img/adobe.png" alt="" re-ignore style="height:1em;width:auto;display:inline-block;vertical-align:-0.15em;margin:0 0.15em 0 0;">Adobe Firefly with Dr. [Yuanjun Xiong](https://yjxiong.me/) and Dr. [Kai Zhang](https://kai-46.github.io/website/) in summer 2025, and a Research Scientist Intern @ <img src="/assets/img/tiktok4.webp" alt="" re-ignore style="height:1em;width:auto;display:inline-block;vertical-align:-0.15em;margin:0 0.15em 0 0;">TikTok, working with Dr. [Hongyi Xu](https://hongyixu37.github.io/homepage/) and Dr. [Linjie Luo](https://linjieluo.github.io/) in summer 2024, and with Dr. [Peng Wang](https://pengwangucla.github.io/peng-wang.github.io/) and Dr. [Kejie Li](https://likojack.github.io/kejieli/#/home) in summer 2023. I obtained my bachelor's degree from the [School of the Gifted Young](https://en.scgy.ustc.edu.cn/) at the University of Science and Technology of China, and was fortunate to work with Prof. [Xiaolong Wang](https://xiaolonw.github.io/) @ UCSD; Prof. [Shenlong Wang](https://shenlong.web.illinois.edu/) @ UIUC; Prof. [Zhangyang (Atlas) Wang](https://vita-group.github.io/) @ UT Austin and Prof. [Dong Liu](http://staff.ustc.edu.cn/~dongeliu/) @ USTC. 
 
-**Contact**: zec016@ucsd.edu
+
+**Contact**: zec016@ucsd.edu &nbsp;·&nbsp; **Resume**: [here](https://zychen-ustc.github.io/Resume_zeyuan_Feb23.pdf)
 
 <h1>Selected Publications</h1>
 <div class="hr pb0"></div>
@@ -40,7 +41,7 @@ Previously, I was a Research Intern @ <img src="/assets/img/snap.png" alt="" re-
 
 <div style="clear: both;">
   <div style="float: left; margin-right 1em;">
-    <img src="/assets/img/snap.png" alt="" width="100" height="100">
+    <img src="/assets/img/snap.webp" alt="" width="100" height="100">
   </div>
   <div>
     <h3>&nbsp;&nbsp;&nbsp;Research Intern at Snap Research</h3>
@@ -62,7 +63,7 @@ Previously, I was a Research Intern @ <img src="/assets/img/snap.png" alt="" re-
 
 <div style="clear: both;">
   <div style="float: left; margin-right 1em;">
-    <img src="/assets/img/tiktok4.png" alt="" width="100" height="100">
+    <img src="/assets/img/tiktok4.webp" alt="" width="100" height="100">
   </div>
   <div>
     <h3>&nbsp;&nbsp;&nbsp;Research Intern at TikTok</h3>
@@ -73,7 +74,7 @@ Previously, I was a Research Intern @ <img src="/assets/img/snap.png" alt="" re-
 
 <div style="clear: both;">
   <div style="float: left; margin-right 1em;">
-    <img src="/assets/img/tiktok4.png" alt="" width="100" height="100">
+    <img src="/assets/img/tiktok4.webp" alt="" width="100" height="100">
   </div>
   <div>
     <h3>&nbsp;&nbsp;&nbsp;Research Intern at TikTok</h3>
@@ -95,7 +96,7 @@ Previously, I was a Research Intern @ <img src="/assets/img/snap.png" alt="" re-
 
 <div style="clear: both;">
   <div style="float: left; margin-right 1em;">
-    <img src="/assets/img/ucsd.png" alt="" width="100" height="100">
+    <img src="/assets/img/ucsd.webp" alt="" width="100" height="100">
   </div>
   <div>
     <h3>&nbsp;&nbsp;&nbsp;Research Assistant at UCSD</h3>
@@ -106,7 +107,7 @@ Previously, I was a Research Intern @ <img src="/assets/img/snap.png" alt="" re-
 
 <div style="clear: both;">
   <div style="float: left; margin-right 1em;">
-    <img src="/assets/img/austin.png" alt="" width="100" height="100">
+    <img src="/assets/img/austin.webp" alt="" width="100" height="100">
   </div>
   <div>
     <h3>&nbsp;&nbsp;&nbsp;Research Assistant at UT Austin</h3>
