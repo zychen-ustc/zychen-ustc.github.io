@@ -120,4 +120,8 @@ Previously, I was a Research Intern @ <img src="/assets/img/snap.webp" alt="" re
 <h1>Misc.</h1>
 <div class="hr pb0"></div>
 
-I am [a huge fan of Overwatch](/assets/img/ow.jpg) (๑•̀ㅂ•́)و✧
+I am <a href="#" class="no-push-state" onclick="var o=document.getElementById('ow-overlay');var i=o.querySelector('img');if(!i.getAttribute('src')){i.setAttribute('src', i.dataset.src);}o.style.display='flex';return false;">a huge fan of Overwatch</a> (๑•̀ㅂ•́)و✧
+
+<div id="ow-overlay" onclick="this.style.display='none'" style="display:none;position:fixed;inset:0;z-index:2000;background:rgba(0,0,0,0.85);align-items:center;justify-content:center;cursor:zoom-out;">
+  <img data-src="/assets/img/ow.jpg" alt="Overwatch" re-ignore style="max-width:90vw;max-height:90vh;border-radius:8px;box-shadow:0 8px 40px rgba(0,0,0,0.6);">
+</div>
