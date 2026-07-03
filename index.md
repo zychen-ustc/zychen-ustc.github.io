@@ -4,13 +4,13 @@ title: About me
 cover: false
 ---
 
-Hi, I am Zeyuan Chen, a PhD student at [University of California, San Diego](https://cse.ucsd.edu), advised by [Prof. Zhuowen Tu](https://pages.ucsd.edu/~ztu/). My current research focus is on generative models, especially on topics such as controllable image, video, and 3D generation. I am also a research intern at Adobe Firefly with [Dr. Yuanjun Xiong](https://yjxiong.me/) and [Dr. Kai Zhang](https://kai-46.github.io/website/), working on building video generation models.
+Hi, I am Zeyuan Chen, a PhD student at [University of California, San Diego](https://cse.ucsd.edu), advised by [Prof. Zhuowen Tu](https://pages.ucsd.edu/~ztu/). My current research focus is on building visual generative models and unified understanding and generation models. I am a Research Intern @ <img src="/assets/img/adobe.png" alt="" style="height:1em;width:auto;vertical-align:-0.15em;margin-right:0.15em;">Adobe Firefly with [Dr. Yuanjun Xiong](https://yjxiong.me/) and [Dr. Mingze Xu](https://xumingze0308.github.io/), exploring scalable architecture designs for video in Adobe's next-generation unified generative model.
 
-Previously, I was a Research Scientist Intern at TikTok, working with [Dr. Hongyi Xu](https://hongyixu37.github.io/homepage/) and [Dr. Linjie Luo](https://linjieluo.github.io/) in 2024 summer, and with [Dr. Peng Wang](https://pengwangucla.github.io/peng-wang.github.io/) and [Dr. Kejie Li](https://likojack.github.io/kejieli/#/home) in 2023 summer. I obtained my Bachelor's degree in Data Science and Big Data Technology from [University of Science and Technology of China](https://sds.ustc.edu.cn). I was fortunate to work with Prof. [Xiaolong Wang](https://xiaolonw.github.io/)@UCSD; Prof. [Shenlong Wang](https://shenlong.web.illinois.edu/)@UIUC; Prof. [Zhangyang (Atlas) Wang](https://vita-group.github.io/)@UT Austin and Prof. [Dong Liu](http://staff.ustc.edu.cn/~dongeliu/)@USTC. Here is my [curriculum vitae](https://zychen-ustc.github.io/Resume_zeyuan_Feb23.pdf).
+Previously, I was a Research Intern @ <img src="/assets/img/snap.png" alt="" style="height:1em;width:auto;vertical-align:-0.15em;margin-right:0.15em;">Snap Research, working with [Dr. Bing Zhou](https://zhoubinwy.github.io/), [Dr. Zhikang Dong](https://www.linkedin.com/in/zhikang-dong/), and [Dr. Hao Chen](https://scholar.google.com/citations?user=3YpwwsYAAAAJ&hl=en) this past spring. I was a Research Intern @ <img src="/assets/img/adobe.png" alt="" style="height:1em;width:auto;vertical-align:-0.15em;margin-right:0.15em;">Adobe Firefly with [Dr. Yuanjun Xiong](https://yjxiong.me/) and [Dr. Kai Zhang](https://kai-46.github.io/website/) in summer 2025, and a Research Scientist Intern @ <img src="/assets/img/tiktok4.png" alt="" style="height:1em;width:auto;vertical-align:-0.15em;margin-right:0.15em;">TikTok, working with [Dr. Hongyi Xu](https://hongyixu37.github.io/homepage/) and [Dr. Linjie Luo](https://linjieluo.github.io/) in summer 2024, and with [Dr. Peng Wang](https://pengwangucla.github.io/peng-wang.github.io/) and [Dr. Kejie Li](https://likojack.github.io/kejieli/#/home) in summer 2023. I obtained my Bachelor's degree in Data Science and Big Data Technology from [University of Science and Technology of China](https://sds.ustc.edu.cn), and was fortunate to work with Prof. [Xiaolong Wang](https://xiaolonw.github.io/)@UCSD; Prof. [Shenlong Wang](https://shenlong.web.illinois.edu/)@UIUC; Prof. [Zhangyang (Atlas) Wang](https://vita-group.github.io/)@UT Austin and Prof. [Dong Liu](http://staff.ustc.edu.cn/~dongeliu/)@USTC. Here is my [curriculum vitae](https://zychen-ustc.github.io/Resume_zeyuan_Feb23.pdf).
 
 **Contact**: zec016@ucsd.edu
 
-# Publications 
+# Selected Publications
 <ul>
 {% for paper in site.data.papers.papers %}
   {% if paper.selected %}
@@ -29,8 +29,30 @@ Previously, I was a Research Scientist Intern at TikTok, working with [Dr. Hongy
     <img src="/assets/img/adobe.png" alt="" width="100" height="100">
   </div>
   <div>
-    <h3>&nbsp;&nbsp;&nbsp;Adobe</h3>
-    <p> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Mentor: Yuanjun Xiong, Kai Zhang</p>
+    <h3>&nbsp;&nbsp;&nbsp;Research Intern at Adobe Firefly</h3>
+    <p> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Mentor: Dr. <a href="https://yjxiong.me/">Yuanjun Xiong</a>, Dr. <a href="https://xumingze0308.github.io/">Mingze Xu</a></p>
+    <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Jun. 2026 - Present</p>
+  </div>
+</div>
+
+<div style="clear: both;">
+  <div style="float: left; margin-right 1em;">
+    <img src="/assets/img/snap.png" alt="" width="100" height="100">
+  </div>
+  <div>
+    <h3>&nbsp;&nbsp;&nbsp;Research Intern at Snap Research</h3>
+    <p> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Mentor: Dr. <a href="https://zhoubinwy.github.io/">Bing Zhou</a>, Dr. <a href="https://www.linkedin.com/in/zhikang-dong/">Zhikang Dong</a>, Dr. <a href="https://scholar.google.com/citations?user=3YpwwsYAAAAJ&amp;hl=en">Hao Chen</a></p>
+    <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Mar. 2026 - Jun. 2026</p>
+  </div>
+</div>
+
+<div style="clear: both;">
+  <div style="float: left; margin-right 1em;">
+    <img src="/assets/img/adobe.png" alt="" width="100" height="100">
+  </div>
+  <div>
+    <h3>&nbsp;&nbsp;&nbsp;Research Intern at Adobe</h3>
+    <p> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Mentor: Dr. <a href="https://yjxiong.me/">Yuanjun Xiong</a>, Dr. <a href="https://kai-46.github.io/website/">Kai Zhang</a></p>
     <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Jun. 2025 - Nov. 2025</p>
   </div>
 </div>
@@ -40,8 +62,8 @@ Previously, I was a Research Scientist Intern at TikTok, working with [Dr. Hongy
     <img src="/assets/img/tiktok4.png" alt="" width="100" height="100">
   </div>
   <div>
-    <h3>&nbsp;&nbsp;&nbsp;TikTok</h3>
-    <p> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Mentor: Hongyi Xu, Linjie Luo</p>
+    <h3>&nbsp;&nbsp;&nbsp;Research Intern at TikTok</h3>
+    <p> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Mentor: Dr. <a href="https://hongyixu37.github.io/homepage/">Hongyi Xu</a>, Dr. <a href="https://linjieluo.github.io/">Linjie Luo</a></p>
     <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Jun. 2024 - Nov. 2024</p>
   </div>
 </div>
@@ -51,8 +73,8 @@ Previously, I was a Research Scientist Intern at TikTok, working with [Dr. Hongy
     <img src="/assets/img/tiktok4.png" alt="" width="100" height="100">
   </div>
   <div>
-    <h3>&nbsp;&nbsp;&nbsp;TikTok</h3>
-    <p> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Mentor: Peng Wang, Kejie Li</p>
+    <h3>&nbsp;&nbsp;&nbsp;Research Intern at TikTok</h3>
+    <p> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Mentor: Dr. <a href="https://pengwangucla.github.io/peng-wang.github.io/">Peng Wang</a>, Dr. <a href="https://likojack.github.io/kejieli/#/home">Kejie Li</a></p>
     <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Jun. 2023 - Nov. 2023</p>
   </div>
 </div>
@@ -62,8 +84,8 @@ Previously, I was a Research Scientist Intern at TikTok, working with [Dr. Hongy
     <img src="/assets/img/uiuc4.png" alt="" width="100" height="100">
   </div>
   <div>
-    <h3>&nbsp;&nbsp;&nbsp;University of Illinois Urbana-Champaign</h3>
-    <p> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Advisor: Shenlong Wang</p>
+    <h3>&nbsp;&nbsp;&nbsp;Research Assistant at UIUC</h3>
+    <p> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Advisor: Prof. <a href="https://shenlong.web.illinois.edu/">Shenlong Wang</a></p>
     <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Jun. 2021 - Aug. 2022</p>
   </div>
 </div>
@@ -73,8 +95,8 @@ Previously, I was a Research Scientist Intern at TikTok, working with [Dr. Hongy
     <img src="/assets/img/ucsd.png" alt="" width="100" height="100">
   </div>
   <div>
-    <h3>&nbsp;&nbsp;&nbsp;University of California, San Diego</h3>
-    <p> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Advisor: Xiaolong Wang</p>
+    <h3>&nbsp;&nbsp;&nbsp;Research Assistant at UCSD</h3>
+    <p> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Advisor: Prof. <a href="https://xiaolonw.github.io/">Xiaolong Wang</a></p>
     <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Apr. 2021 - Nov. 2021</p>
   </div>
 </div>
@@ -84,8 +106,8 @@ Previously, I was a Research Scientist Intern at TikTok, working with [Dr. Hongy
     <img src="/assets/img/austin.png" alt="" width="100" height="100">
   </div>
   <div>
-    <h3>&nbsp;&nbsp;&nbsp;University of Texas at Austin, VITA Group</h3>
-    <p> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Advisor: Zhangyang (Atlas) Wang</p>
+    <h3>&nbsp;&nbsp;&nbsp;Research Assistant at UT Austin</h3>
+    <p> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Advisor: Prof. <a href="https://vita-group.github.io/">Zhangyang (Atlas) Wang</a></p>
     <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Jun. 2020 - Mar. 2021</p>
   </div>
 </div>

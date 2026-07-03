@@ -4,7 +4,7 @@ papers:
 #    year: 2020
 #    title: "Anytime Sampling for Autoregressive Models via Ordered Autoencoding"
 #    authors: <b>Yilun Xu*</b>, Yang Song*, Sahaj Garg, Lingyuan Gong, Aditya Grover, Rui Shu, Stefano Ermon
-#    booktitle: "in submission"
+#    booktitle: "submission"
 #    code-url:
 #    pdf-url: newbeeer.github.io/assets/files/anytime_paper.pdf
 #    venue: conference
@@ -12,26 +12,51 @@ papers:
 #    doc-url:
   - layout: paper
     paper-type: inproceedings
+    year: 2026
+    title: "Soft Tail-dropping for Adaptive Visual Tokenization"
+    authors: <b>Zeyuan Chen</b>, Kai Zhang, Zhuowen Tu, Yuanjun Xiong
+    booktitle: "ECCV 2026"
+    code-url: https://zeyuan-chen.com/STAT/
+    pdf-url: https://zeyuan-chen.com/STAT/
+    venue: conference
+    selected: yes
+    project-url: https://zeyuan-chen.com/STAT/
+  - layout: paper
+    paper-type: inproceedings
+    year: 2026
+    title: "StreamTalker: Streaming Talking Person Audio-Video Joint Generation"
+    authors: <b>Zeyuan Chen</b>, Zhikang Dong, Vidit Goel, Bing Zhou, Zhenzhi Wang, Jian Wang, Dhritiman Sagar, Sergei Korolev, Zhuowen Tu, Hao Chen
+    booktitle: "submission"
+    venue: conference
+    selected: yes
+  - layout: paper
+    paper-type: inproceedings
+    year: 2026
+    title: "QuadTok: Quad-Tree Visual Tokenizer For Autoregressive Image Generation"
+    authors: Yucheng Mao*, <b>Zeyuan Chen*</b>, Xiang Zhang, Divyansh Srivastava, Bingnan Li, Haiyang Xu, Zhuowen Tu
+    booktitle: "submission"
+    venue: conference
+    selected: yes
+  - layout: paper
+    paper-type: inproceedings
     year: 2025
     title: "Central-Peripheral Vision-Inspired Multimodality Models for Spatial Reasoning"
     authors: <b>Zeyuan Chen</b>, Xiang Zhang, Haiyang Xu, Jianwen Xie, Zhuowen Tu
     booktitle: "WACV 2026"
-    code-url: https://zychen-ustc.github.io/
-    pdf-url: https://zychen-ustc.github.io/
+    pdf-url: https://arxiv.org/abs/2512.08135
     venue: conference
     selected: yes
-    project-url: https://zychen-ustc.github.io/
   - layout: paper
     paper-type: inproceedings
     year: 2025
     title: "X-Dancer: Expressive music to human dance video generation"
     authors: <b>Zeyuan Chen</b>, Hongyi Xu, Guoxian Song, You Xie, Chenxu Zhang, Xin Chen, Chao Wang, Di Chang, Linjie Luo
     booktitle: "ICCV 2025 (Highlight)"
-    code-url: https://zychen-ustc.github.io/X-Dancer/
+    code-url: https://zeyuan-chen.com/X-Dancer/
     pdf-url: https://arxiv.org/pdf/2502.17414
     venue: conference
     selected: yes
-    project-url: https://zychen-ustc.github.io/X-Dancer/
+    project-url: https://zeyuan-chen.com/X-Dancer/
   - layout: paper
     paper-type: inproceedings
     year: 2025
@@ -41,7 +66,7 @@ papers:
     code-url: https://github.com/mlpc-ucsd/DepR
     pdf-url: https://arxiv.org/pdf/2507.22825
     venue: conference
-    selected: yes
+    selected: no
     project-url: https://mlpc-ucsd.github.io/DepR/
   - layout: paper
     paper-type: inproceedings
@@ -52,7 +77,7 @@ papers:
     code-url: https://github.com/mlpc-ucsd/
     pdf-url: https://github.com/mlpc-ucsd/
     venue: conference
-    selected: yes
+    selected: no
   - layout: paper
     paper-type: inproceedings
     year: 2025
@@ -62,7 +87,7 @@ papers:
     code-url: https://github.com/bytedance/X-Dyna
     pdf-url: https://openaccess.thecvf.com/content/CVPR2025/papers/Chang_X-Dyna_Expressive_Dynamic_Human_Image_Animation_CVPR_2025_paper.pdf
     venue: conference
-    selected: yes
+    selected: no
     project-url: https://x-dyna.github.io/xdyna.github.io/
   - layout: paper
     paper-type: inproceedings
@@ -73,7 +98,7 @@ papers:
     code-url: https://github.com/mlpc-ucsd/
     pdf-url: https://www.ecva.net/papers/eccv_2024/papers_ECCV/papers/06812.pdf
     venue: conference
-    selected: yes
+    selected: no
   - layout: paper
     paper-type: inproceedings
     year: 2024
@@ -83,7 +108,7 @@ papers:
     code-url: https://github.com/mlpc-ucsd/BDM
     pdf-url: https://openaccess.thecvf.com/content/CVPR2024/papers/Xu_Bayesian_Diffusion_Models_for_3D_Shape_Reconstruction_CVPR_2024_paper.pdf
     venue: conference
-    selected: yes
+    selected: no
     project-url: https://mlpc-ucsd.github.io/BDM/
   - layout: paper
     paper-type: inproceedings
@@ -94,7 +119,7 @@ papers:
     code-url: https://github.com/mlpc-ucsd/BLIVA
     pdf-url: https://arxiv.org/abs/2308.09936
     venue: conference
-    selected: yes
+    selected: no
     project-url: https://github.com/mlpc-ucsd/BLIVA
   - layout: paper
     paper-type: inproceedings
@@ -112,7 +137,7 @@ papers:
     year: 2021
     title: "CASA: Category-agnostic Skeletal Animal Reconstruction"
     authors: Yuefan Wu*, <b>Zeyuan Chen*</b>, Shaowei Liu, Zhongzheng Ren, Shenlong Wang
-    booktitle: "Neurips 2022"
+    booktitle: "NeurIPS 2022"
     code-url: https://github.com/Iven-Wu/CASA
     pdf-url: https://arxiv.org/abs/2211.03568
     venue: conference
@@ -128,14 +153,14 @@ papers:
     pdf-url: https://openaccess.thecvf.com/content/CVPR2022/papers/Chen_VideoINR_Learning_Video_Implicit_Neural_Representation_for_Continuous_Space-Time_Super-Resolution_CVPR_2022_paper.pdf
     venue: conference
     selected: yes
-    project-url: https://zychen-ustc.github.io/VideoINR/
+    project-url: https://zeyuan-chen.com/VideoINR/
   - layout: paper
     paper-type: inproceedings
     year: 2021
     title: "PSD: Principled Synthetic-to-Real Dehazing Guided by Physical Priors"
     authors: <b>Zeyuan Chen</b>, Yangchao Wang, Yang Yang, Dong Liu
     booktitle: "CVPR 2021 (Oral)"
-    code-url: https://github.com/zychen-ustc/PSD-Principled-Synthetic-to-Real-Dehazing-Guided-by-Physical-Priors/tree/main/PSD
+    code-url: https://github.com/zychen-ustc/PSD-Principled-Synthetic-to-Real-Dehazing-Guided-by-Physical-Priors/tree/main
     pdf-url: https://openaccess.thecvf.com/content/CVPR2021/papers/Chen_PSD_Principled_Synthetic-to-Real_Dehazing_Guided_by_Physical_Priors_CVPR_2021_paper.pdf
     venue: conference
     selected: yes
