@@ -37,18 +37,26 @@ REPLACEMENT_KEY = 'replacement'
 
 Jekyll::Hooks.register([:pages, :documents], :post_render) do |page|
   config ||= page.site.config
-  replacement ||= (config[CONFIG_KEY] && config[CONFIG_KEY][REPLACEMENT_KEY]) ||
-    REPLACEMENT
 
-  i = 0
-  page.output = page.output.gsub(RE_IMG) do |match|
-    attrs = Regexp.last_match[1]
+  # Respect Hydejack's `no_img` setting: when lazy-loading is disabled the
+  # `hy-img` web component isn't loaded, so replacing <img> would leave the
+  # images unrendered. Skip replacement and keep plain <img> tags.
+  no_img = (config['hydejack'] && config['hydejack']['no_img']) || config['no_img']
 
-    if match.index(/re-ignore/).nil? && match.index(RE_DATAURL).nil? then
-      i += 1
-      replacement % { i:i, attrs:attrs }
-    else
-      match
+  unless no_img
+    replacement ||= (config[CONFIG_KEY] && config[CONFIG_KEY][REPLACEMENT_KEY]) ||
+      REPLACEMENT
+
+    i = 0
+    page.output = page.output.gsub(RE_IMG) do |match|
+      attrs = Regexp.last_match[1]
+
+      if match.index(/re-ignore/).nil? && match.index(RE_DATAURL).nil? then
+        i += 1
+        replacement % { i:i, attrs:attrs }
+      else
+        match
+      end
     end
   end
 end

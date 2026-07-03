@@ -39,7 +39,7 @@ logo:                  /assets/img/czy.jpg
 # This should be the same author as first entry in `_data/authors.yml`.
 author:
   name:                Zeyuan Chen
-  picture:             /assets/img/Me2.jepg
+  picture:             /assets/img/Me2.jpeg
   social:
     email:               'zec016@ucsd.edu'
     github:              zychen-ustc

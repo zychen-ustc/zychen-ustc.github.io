@@ -16,8 +16,8 @@ papers:
     title: "Soft Tail-dropping for Adaptive Visual Tokenization"
     authors: <b>Zeyuan Chen</b>, Kai Zhang, Zhuowen Tu, Yuanjun Xiong
     booktitle: "ECCV 2026"
-    code-url: https://zeyuan-chen.com/STAT/
-    pdf-url: https://zeyuan-chen.com/STAT/
+    code-url: https://github.com/zychen-ustc/STAT
+    pdf-url: https://arxiv.org/pdf/2601.14246
     venue: conference
     selected: yes
     project-url: https://zeyuan-chen.com/STAT/
